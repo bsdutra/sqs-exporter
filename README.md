@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/twitter-@nulldutra-blue.svg">
     </a>
     <a href="https://github.com/nulldutra/sqs-exporter/actions/workflows/lint.yml">
-      <img src="https://github.com/nulldutra/sqs-exporter/actions/workflows/lint.yml/badge.svg">
+      <img src="https://github.com/nulldutra/sqs-exporter/actions/workflows/lint.yml/badge.svg?branch=main">
     </a>
   </p>
 </p>
